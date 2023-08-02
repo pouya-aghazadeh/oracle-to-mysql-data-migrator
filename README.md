@@ -1,4 +1,4 @@
-# RMTO Sync Automation
+# Data Migration Automation From Oracle To MySQL
 
 
 
